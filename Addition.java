@@ -10,7 +10,7 @@ public class Addition {
         System.out.println("Type another number:");
         y = myObj.nextInt(); // Read user input
     
-        sum = x + y;  // Calculate the sum of x + y
+        sum = x + y;  
         System.out.println("Sum is: " + sum); // Print the sum
     }
 }
