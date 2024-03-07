@@ -38,7 +38,7 @@ class Stack {
   public int pop() {
 
     // if stack is empty
-    // no element to pop
+    // no element to pop therefore return SOP Statement 
     if (isEmpty()) {
       System.out.println("STACK EMPTY");
       // terminates the program
